@@ -1,7 +1,7 @@
 ---
 - name: Example Ansible playbook
   hosts: all
-  remote_user: rahulwagh
+  remote_user: sparx900
   roles:
     - python
 
